@@ -1,0 +1,1 @@
+# django_hobby_app
